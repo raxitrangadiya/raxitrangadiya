@@ -3,9 +3,17 @@
 <!-- Dynamic Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raxit%20Rangadiya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Node.js%20%7C%20PostgreSQL&descAlignY=60&descSize=16&descColor=a0aec0&animation=fadeIn" />
 
+<!-- Typing SVG -->
+<!-- <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🚀+React.js+%7C+Node.js+%7C+PostgreSQL+Developer;⚙️+Building+Scalable+Full+Stack+Applications;🤖+AI+%26+Automation+Engineer+%7C+MCP+Architecture;🐳+Docker+%7C+JWT+%7C+REST+APIs+%7C+Prompt+Engineering](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-End+Developer;Full+Stack+Enthusiast;IoT+%26+Automation+Lover" alt="Typing SVG" />
+</a>
 
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=raxitrangadiya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> -->
+
+</div>
+
 
 ## 👨‍💻 About Me
 
