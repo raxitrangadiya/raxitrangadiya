@@ -123,7 +123,8 @@ const raxit: Developer = {
 ```
 📘 TypeScript   →  Typing React apps for production robustness
 🐳 Docker       →  Containerizing full-stack apps end-to-end
-🤖 MCP / AI     →  Agentic workflows and LLM pipeline design
+🤖 Agentic AI   →  Autonomous workflows, tool use, and LLM system design
+🧩 MCP / AI     →  Model Context Protocol and production AI pipeline design
 ⚡ System Design →  Scalable architecture patterns
 ```
 
